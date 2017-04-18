@@ -1,0 +1,14 @@
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe.config
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmDangKi.resources
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmDangNhap.resources
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmMain.resources
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmNhanVien.resources
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmPhongBan.resources
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.frmTaiKhoan.resources
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.Properties.Resources.resources
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.csproj.GenerateResource.Cache
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.exe
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\bin\Debug\QuanLiNhanSu.pdb
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.exe
+C:\Users\TIIN\Desktop\QuanLiNhanSu-master\QuanLiNhanSu\obj\Debug\QuanLiNhanSu.pdb
